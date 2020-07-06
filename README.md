@@ -6,7 +6,7 @@ This repository is not ready to be used yet.
 **Welcome**   
 This repository is used for storing [qbot](https://github.com/yogurtsyum/qbot) plugins. All plugins are individually licensed and are in folders.
 
-[📁 View the plugin directory](directory.md)
+[📁  View the plugin directory](directory.md)
 
 **Support**   
 Support for plugins is volunteerily provided by the community and the plugin developer in [Lengo's Discord](https://discord.gg/J47m7t4). This is also the official qbot support server. 
