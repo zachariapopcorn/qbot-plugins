@@ -1,7 +1,7 @@
 # 📁 Plugin Directory
 This is the directory of all qbot plugins on this repository.
 
-## [qbot database plugin](/qbot_database_plugin/README.md)
+## [qbot database plugin](/qbot_database_plugin/)
 A plugin that adds the ability for qbot to have a database.
 
 To build a plugin off of this plugin use this format and have your users install this plugin as well as yours in your plugin's instructions:
