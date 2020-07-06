@@ -12,4 +12,4 @@ db.delete('variabale');           // Deletes a variable.
 db.clear();                       // Deletes every variable in the database.
 ```
 
-[Licensed under the MIT License](/LICENSE.md)   
+[License](/qbot_database_module/LICENSE.md)   
