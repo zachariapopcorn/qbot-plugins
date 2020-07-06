@@ -11,5 +11,3 @@ db.get('variable');               // Returns a variable's value.
 db.delete('variabale');           // Deletes a variable.
 db.clear();                       // Deletes every variable in the database.
 ```
-
-[License](/qbot_database_module/LICENSE.md)   
