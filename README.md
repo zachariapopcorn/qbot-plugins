@@ -1,0 +1,2 @@
+# qbot-plugins
+qbot plugins
