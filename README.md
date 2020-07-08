@@ -9,7 +9,7 @@ This repository is used for storing [qbot](https://github.com/yogurtsyum/qbot) p
 **Support**   
 Support for plugins is volunteerily provided by the community and the plugin developer in [Lengo's Discord](https://discord.gg/J47m7t4). This is also the official qbot support server. 
 
-**Submissions**
+**Submissions**   
 To submit a plugin, fork this repository and create a folder for your plugin. Place your plugin code in that folder as well as a `README.md` file with the detailed plugin description and a license of your choice. Then, submit a pull request to add that folder to this directory.
 
 **Disclaimer**   
