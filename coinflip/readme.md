@@ -3,7 +3,7 @@
 1. Copy the contents of `coinflip.js` into the `commands` folder
 2. Edit lines 11 and 15 to coin a pictures of your coin
 3. As per the license, you must have a copy of the license that was distributed with the command.
-*Not including this license your source technically/legally not allowed to use this command.* 
+- *Not including this license your source technically/legally not allowed to use this command.* 
 
 #
 
