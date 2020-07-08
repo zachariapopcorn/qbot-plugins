@@ -1,5 +1,3 @@
-This repository is not ready to be used yet.
-
 ![banner](https://i.gyazo.com/d1e27498ee65b42783f302aaeddf29b2.png)
 ![description](https://i.gyazo.com/0926bf0ae23fb20f4449b6d5445fc4d8.png)
 
