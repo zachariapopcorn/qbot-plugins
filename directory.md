@@ -9,12 +9,3 @@ Grabs information on a user, including group rank, user ID, etc.
 
 ## [Rank List Command](/ranklist/)   
 This plugin gets all the ranks in your group and will post it in an embed, including the roleset and also how many people are in the role.
-
-## [DM Command](/dm_plugin/)   
-Allows you to DM people as the bot with a command
-
-## [Avatar Command](/avatar_plugin/)   
-Allows you to get people's avatar
-
-## [Membercount Command](/membercount_plugin/)
-Allows you to get the membercount of your discord server
