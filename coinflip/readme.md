@@ -2,7 +2,8 @@
 
 1. Copy the contents of `coinflip.js` into the `commands` folder
 2. Edit lines 11 and 15 to coin a pictures of your coin
-3. As per the license, you must have a copy of the license distributed with the command. *Not including this license your technically/legally not allowed to use.* 
+3. As per the license, you must have a copy of the license that was distributed with the command.
+*Not including this license your source technically/legally not allowed to use this command.* 
 
 #
 
@@ -18,7 +19,7 @@ Go to server settings -> Emoji -> Upload Emoji
 
 ### Getting Emoji ID
 
-Type the \:emoji-name: 
+Type the `\:emoji-name:` 
 
 ![:emoji name: in chat](https://lots-of-pineapple-pizza.is-inside.me/IS0FZ1aU.png)
  
