@@ -6,6 +6,9 @@ This repository is used for storing [qbot](https://github.com/yogurtsyum/qbot) p
 
 [📁 View the plugin directory](directory.md)
 
+**Instructions**   
+To install a plugin, just add the plugin files into your commands folder in your qbot code unless the plugin has specified other instructions. Depending on the plugin, you might also be required to add a license to your qbot code/bot files.
+
 **Support**   
 Support for plugins is volunteerily provided by the community and the plugin developer in [Lengo's Discord](https://discord.gg/J47m7t4). This is also the official qbot support server. 
 
