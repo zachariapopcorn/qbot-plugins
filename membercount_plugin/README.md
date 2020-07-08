@@ -1,0 +1,1 @@
+Follow the normal installation process for qbot plugins. Only add the files that end with ".js" though. If you find any issues with any of these commands, report them to Anonymous on the support server. This plugin allows you to see how many people are in your discord server.
