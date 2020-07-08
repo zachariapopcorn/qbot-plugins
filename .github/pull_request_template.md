@@ -1,3 +1,3 @@
 **Plugin Name:**
 
-**Plugin Description:**
+**Plugin __Short__ Description:**
