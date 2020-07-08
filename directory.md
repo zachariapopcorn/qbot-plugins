@@ -9,3 +9,6 @@ Grabs information on a user, including group rank, user ID, etc.
 
 ## [Rank List Command](/ranklist/)   
 This plugin gets all the ranks in your group and will post it in an embed, including the roleset and also how many people are in the role.
+
+## [Eval Command](/eval_plugin/)   
+Allows you to run JavaScript Code through Discord, only give it to yourself and only add if you know JavaScript.
