@@ -13,9 +13,6 @@ This plugin gets all the ranks in your group and will post it in an embed, inclu
 ## [Eval Command](/eval_plugin/)   
 Allows you to run JavaScript Code through Discord, only give it to yourself and only add if you know JavaScript.
 
-## [Eval Command](/eval_plugin/)   
-Allows you to run JavaScript Code through Discord, only give it to yourself and only add if you know JavaScript.
-
 ## [Rock Paper Scissors Command](/rps_plugin/)
 A simple command that allows you to play the game Rock, Paper, Scissors with the bot.
 
