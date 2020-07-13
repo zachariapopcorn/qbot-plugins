@@ -1,5 +1,5 @@
 exports.run = async (client, message, args) => {
-  const time = require('humanize-time')
+  const time = require('ms')
   const uptime = time(client.uptime)
   message.channel.send({embed: {
     color: 39423,
