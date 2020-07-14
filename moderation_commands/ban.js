@@ -208,7 +208,7 @@ exports.run = async (client, message, args) => {
       }})
     }
   } else return message.channel.send({embed:{
-    description: "You need the BAN_MEMBERS permission to use this command.",
+    description: "You need the `BAN_MEMBERS` permission to use this command.",
     color: 16733013,
     author: {
       name: message.author.tag,
