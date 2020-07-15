@@ -9,7 +9,7 @@ exports.run = async (client, message, args) => {
           if(mention.manageable) {
             const muted = message.guild.roles.cache.find(role => role.name === 'Muted');
             if(muted) {
-              if(!mention.roles.cache.some(role => ['Muted'].includes(role.name))) {
+              if(mention.roles.cache.some(role => ['Muted'].includes(role.name))) {
                 if(message.guild.me.hasPermission("MANAGE_ROLES")) {
                   if(mention.id != message.author.id) {
                     mention.roles.remove(muted)
@@ -139,7 +139,7 @@ exports.run = async (client, message, args) => {
                   if(findname.first().manageable) {
                     const muted = message.guild.roles.cache.find(role => role.name === 'Muted');
                     if(muted) {
-                      if(!findname.first().roles.cache.some(role => ['Muted'].includes(role.name))) {
+                      if(findname.first().roles.cache.some(role => ['Muted'].includes(role.name))) {
                         if(message.guild.me.hasPermission("MANAGE_ROLES")) {
                           if(findname.first().id != message.author.id) {
                             findname.first().roles.remove(muted)
