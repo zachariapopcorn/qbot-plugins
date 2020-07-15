@@ -1,4 +1,4 @@
-# Uptime Plugin
+# Moderation Commands
 This plugin allows you to mute, unmute, ban, and kick people using your bot. If you find any issues with any of these command, report them to Anonymous on the support server.
 ## Instalation
 * Open the bot terminal/repl.it shell.
