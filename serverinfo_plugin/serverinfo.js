@@ -7,7 +7,7 @@ const e = new MessageEmbed()
 .addField('Server ID',[`${server.id}`],true)
 .addField('Members',[`${server.memberCount}`],true)
 .addField('Roles',[`${server.roles.cache.size}`],true)
-.addField('Owner ID',[`${server.owner.id}`],true)
+.addField('Owner',[`<@${server.owner.id}>`],true)
 message.channel.send(e)
 }
 
