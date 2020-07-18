@@ -30,3 +30,6 @@ Allows you to get people's avatar
 
 ## [Membercount Command](/membercount_plugin/)
 Allows you to get the membercount of your discord server
+
+## [Server Info Command](/serverinfo_plugin/)
+Get info about the current server!
