@@ -33,3 +33,9 @@ Allows you to get the membercount of your discord server
 
 ## [Server Info Command](/serverinfo_plugin/)
 Get info about the current server!
+
+## [Uptime Command](/uptime_plugin/)
+Gets the uptime of the bot
+
+## [Moderation Commands](/moderation_commands/)
+Allows you to mute, kick, ban, and unmute people.
