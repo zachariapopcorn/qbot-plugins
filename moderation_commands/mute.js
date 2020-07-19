@@ -5,7 +5,7 @@ exports.run = async (client, message, args) => {
       (await message.guild.members.cache.get(args[0]));
     if(mention) {
       if(!mention.roles.cache.some(role => ["Mute Permissions"].includes(role.name))) {
-        if(message.member.roles.highest > mention.roles.highest) {
+        if(message.member.roles.highest.position > mention.roles.highest.position) {
           if(mention.manageable) {
             const muted = message.guild.roles.cache.find(role => role.name === 'Muted');
             if(muted) {
@@ -135,7 +135,7 @@ exports.run = async (client, message, args) => {
             let answer = collected.first().content.toLowerCase();
             if(answer === "yes") {
               if(!findname.first().roles.cache.some(role => ["Mute Permissions"].includes(role.name))) {
-                if(message.member.roles.highest > findname.first().roles.highest) {
+                if(message.member.roles.highest.position > findname.first().roles.highest.position) {
                   if(findname.first().manageable) {
                     const muted = message.guild.roles.cache.find(role => role.name === 'Muted');
                     if(muted) {
