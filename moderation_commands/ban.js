@@ -4,7 +4,7 @@ exports.run = async (client, message, args) => {
       (await message.mentions.members.first()) ||
       (await message.guild.members.cache.get(args[0]));
     if(mention) {
-      if(message.member.roles.highest > mention.roles.highest) {
+      if(message.member.roles.highest.position > mention.roles.highest.position) {
         if(mention.bannable) {
           if(message.guild.me.hasPermission("BAN_MEMBERS")) {
             if(mention.id != message.author.id) {
@@ -110,7 +110,7 @@ exports.run = async (client, message, args) => {
           } else {
             let answer = collected.first().content.toLowerCase();
             if(answer === "yes") {
-              if(message.member.roles.highest > findname.first().roles.highest) {
+              if(message.member.roles.highest.position > findname.first().roles.highest.position) {
                 if(findname.first().bannable) {
                   if(message.guild.me.hasPermission("BAN_MEMBERS")) {
                     if(findname.first().id != message.author.id) {
