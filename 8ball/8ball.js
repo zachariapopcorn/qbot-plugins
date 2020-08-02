@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 
-exports.run = async (bot, message, args) => {
+exports.run = async (client, message, args) => {
 
 if (!args[0]) return message.reply("Please ask a question!");
 	
