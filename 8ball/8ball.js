@@ -17,4 +17,5 @@ if (!args[0]) return message.reply("Please ask a question!");
 	.setFooter(`qbot plugin by bigbenster702`);
 
 message.channel.send(ballembed)
+	
 }
