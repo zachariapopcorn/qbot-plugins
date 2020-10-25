@@ -39,3 +39,6 @@ Gets the uptime of the bot
 
 ## [Moderation Commands](/moderation_commands/)
 Allows you to mute, kick, ban, and unmute people.
+
+## [8ball Command](/8ball/)
+Adds a fun 8 ball that you can ask questions to!
